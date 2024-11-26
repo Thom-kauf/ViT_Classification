@@ -1,0 +1,5 @@
+__pycache__/
+*.tar
+*.md
+.ipynb_checkpoints
+logs/
