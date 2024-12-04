@@ -3,3 +3,4 @@ checkpoint/
 *.md
 .ipynb_checkpoints
 logs/
+.gitignore
